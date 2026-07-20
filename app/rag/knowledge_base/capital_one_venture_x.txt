@@ -1,0 +1,34 @@
+CARD: Capital One Venture X
+ISSUER: Capital One
+POINTS_CURRENCY: Capital One Miles
+VALUATION: 1.85 cents per point
+ANNUAL_FEE: $395
+
+HOTEL_PARTNERS:
+- Marriott Bonvoy | Transfer ratio 1:1 | Minimum 5,000 points
+- Hilton Honors | Transfer ratio 1:2 | Minimum 5,000 points
+- IHG One Rewards | Transfer ratio 1:1 | Minimum 10,000 points
+
+BEST_USE:
+Capital One Venture X is a premium travel card with broad hotel
+transfer partnerships. Its Miles are valued at 1.85 cents each,
+making it competitive with Chase and Amex for hotel redemptions.
+
+For Hilton Honors, the 2:1 transfer ratio is the standout benefit —
+5,000 Capital One Miles becomes 10,000 Hilton points, strong value
+for Hilton properties at all tiers.
+
+For Marriott Bonvoy at 1:1, Capital One is comparable to Chase
+Sapphire but slightly lower value (1.85 vs 2.0 cents/pt). Choose
+Chase first if both are available and balances are similar.
+
+For IHG One Rewards at 1:1, Capital One is competitive. Combined
+with IHG's fourth night free benefit, this card works well for
+multi-night IHG stays.
+
+AVOID: Do not use Capital One Miles for low-value hotel redemptions
+under 1 cent per point — the $395 annual fee requires maximizing value.
+
+SWEET_SPOT: High-balance holders (100,000+ miles) have the most
+flexibility. 50,000 miles to Hilton Honors yields 100,000 Hilton
+points — enough for multiple nights at mid-tier properties.

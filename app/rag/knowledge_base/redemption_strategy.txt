@@ -1,0 +1,56 @@
+TOPIC: Points Redemption Strategy Guide
+CATEGORY: Strategy
+
+VALUATION_BENCHMARKS:
+Understanding cents per point (cpp) is essential for smart redemptions.
+- Below 1.0 cpp = Poor value. Avoid these redemptions.
+- 1.0 to 1.5 cpp = Below average. Only use if no better option exists.
+- 1.5 to 2.0 cpp = Average to good. Acceptable for most redemptions.
+- 2.0 to 2.5 cpp = Good value. This is the target for hotel transfers.
+- Above 2.5 cpp = Excellent value. Sweet spot redemptions.
+
+SPLIT_PAYMENT_STRATEGY:
+When a hotel stay costs more than your points cover, split payment
+(points + cash) is often the right move. Key rules:
+- Only use points if you get at least 1.5 cents per point in value.
+- If the cash remainder is small (under $50), points redemption is worth it.
+- If the cash remainder exceeds the hotel cost by more than 50%, reconsider.
+- Never redeem points for less than 1.0 cent per point — just pay cash.
+
+TRANSFER_TIMING:
+- Transfer points only when you have a confirmed booking in mind.
+- Points transferred to hotel programs cannot be transferred back.
+- Always verify hotel availability BEFORE transferring points.
+- Transfer ratios are set by the credit card company and change rarely,
+  but always confirm the current ratio before a large transfer.
+
+DENOMINATION_RULES:
+Credit card companies require transfers in fixed increments.
+Common increments: 1,000 / 5,000 / 10,000 / 25,000 / 50,000 points.
+You cannot transfer 4,500 or 12,000 points — only exact increments.
+Always transfer the minimum needed to cover the stay, not more.
+Unused hotel points expire faster than credit card points.
+
+HOTEL_PROGRAM_OVERVIEW:
+- Marriott Bonvoy: Largest hotel network. Points worth ~0.8 cents each.
+  Best for mid-tier properties. Requires more points per night than Hyatt.
+- World of Hyatt: Smaller network but highest point value at 1.5-2.5 cpp.
+  Best program for luxury redemptions. Limited properties.
+- Hilton Honors: Largest hotel count globally. Points worth ~0.5 cents.
+  Requires many points per night but has wide availability.
+- IHG One Rewards: Best for budget and mid-tier stays. Fourth night free
+  benefit makes multi-night bookings very efficient.
+
+WHICH_CARD_FOR_WHICH_HOTEL:
+- Marriott Bonvoy: Best = Chase Sapphire Preferred (1:1, 2.0 cpp source)
+- World of Hyatt: Best = Chase Sapphire Preferred (1:1, highest sweet spots)
+- Hilton Honors: Best = Amex Gold (2:1 ratio, doubles your points)
+- IHG One Rewards: Best = Chase Sapphire Preferred or Capital One Venture X
+
+MULTIPLE_CARD_STRATEGY:
+When a user has multiple cards, always compare:
+1. Transfer ratio to the target hotel program
+2. Source points valuation (cpp)
+3. Current balance vs minimum denomination
+4. Which card has the most points to spare
+Never deplete a card's points entirely — keep a buffer for future use.

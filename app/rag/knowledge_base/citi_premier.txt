@@ -1,0 +1,32 @@
+CARD: Citi Premier Card
+ISSUER: Citi
+POINTS_CURRENCY: Citi ThankYou Points
+VALUATION: 1.8 cents per point
+ANNUAL_FEE: $95
+
+HOTEL_PARTNERS:
+- Marriott Bonvoy | Transfer ratio 1:1 | Minimum 10,000 points
+- World of Hyatt | Transfer ratio 1:1 | Minimum 10,000 points
+
+BEST_USE:
+Citi Premier offers strong 1:1 transfers to both Marriott and Hyatt,
+making it a versatile hotel rewards card. The minimum transfer of
+10,000 points is higher than Chase (5,000), so users need a larger
+balance before transfers become available.
+
+For Marriott Bonvoy, Citi Premier is competitive with Chase Sapphire
+since both transfer at 1:1. However, Citi ThankYou Points are valued
+slightly lower at 1.8 cents vs Chase's 2.0 cents, so Chase wins if
+the user has both cards.
+
+For World of Hyatt at 1:1, this is an excellent transfer — the same
+quality as Chase Sapphire Preferred for Hyatt, making Citi Premier
+a strong backup when Chase points are depleted.
+
+AVOID: Do not use Citi Premier for hotel transfers if the user has
+Chase Sapphire Preferred and the balance is above 5,000 points.
+Chase offers better overall point valuation for the same programs.
+
+SWEET_SPOT: Hyatt transfers when Chase balance is insufficient.
+10,000 Citi TYP = 10,000 Hyatt points — a solid backup option
+for Category 1-4 Hyatt properties.

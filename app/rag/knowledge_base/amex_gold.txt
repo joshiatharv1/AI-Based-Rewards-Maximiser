@@ -1,0 +1,30 @@
+CARD: American Express Gold Card
+ISSUER: American Express
+POINTS_CURRENCY: American Express Membership Rewards
+VALUATION: 2.2 cents per point
+ANNUAL_FEE: $250
+
+HOTEL_PARTNERS:
+- Marriott Bonvoy | Transfer ratio 1:0.8 | Minimum 5,000 points
+- Hilton Honors | Transfer ratio 1:2.0 | Minimum 1,000 points
+
+BEST_USE:
+American Express Gold is best used for Hilton Honors transfers.
+The 2:1 transfer ratio means 1,000 Amex MR becomes 2,000 Hilton points.
+Hilton Honors points are worth about 0.5 cents each, so 25,000 Amex MR
+becomes 50,000 Hilton points worth approximately $250 — matching the
+1.0 cent per Amex point baseline, which is acceptable.
+
+For Marriott Bonvoy, the 0.8x transfer ratio is a disadvantage.
+1,000 Amex MR becomes only 800 Marriott points. Marriott points
+are worth 0.8 cents each, so the effective value is about 0.64 cents
+per Amex MR point — below the 2.2 cent valuation. Avoid Marriott
+transfers with Amex Gold unless no other card is available.
+
+AVOID: Transferring Amex MR to Marriott Bonvoy. The 0.8x ratio
+combined with lower Marriott point values creates poor overall value.
+Chase or Citi cards are better for Marriott redemptions.
+
+SWEET_SPOT: Hilton luxury properties during off-peak periods.
+25,000 Amex MR = 50,000 Hilton points, enough for 1-2 nights
+at a mid-tier Hilton, delivering solid value for the transfer.

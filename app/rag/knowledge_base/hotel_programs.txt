@@ -1,0 +1,67 @@
+TOPIC: Hotel Loyalty Programs Comparison
+CATEGORY: Hotel Programs
+
+MARRIOTT_BONVOY:
+Program name: Marriott Bonvoy
+Point value: ~0.8 cents per point
+Network size: 8,000+ properties worldwide
+Brands: Marriott, Sheraton, Westin, W Hotels, St. Regis, Ritz-Carlton,
+        Courtyard, Fairfield, Renaissance, Autograph Collection
+Transfer partners: Chase Ultimate Rewards (1:1), Amex MR (0.8:1),
+                   Citi ThankYou (1:1), Capital One Miles (1:1)
+Best redemption: Mid-tier properties (Sheraton, Westin) at off-peak times.
+                 Category 1-3 properties offer best value.
+Peak pricing: Major cities (NYC, London, Paris) require 50,000-100,000
+              points per night at premium properties.
+NYC example: Marriott Marquis Times Square ~40,000-60,000 points/night.
+
+HILTON_HONORS:
+Program name: Hilton Honors
+Point value: ~0.5 cents per point
+Network size: 7,000+ properties worldwide
+Brands: Hilton, DoubleTree, Hampton Inn, Embassy Suites, Conrad,
+        Waldorf Astoria, Curio Collection, Tapestry Collection
+Transfer partners: Amex MR (1:2), Capital One Miles (1:2)
+Best redemption: Standard rooms at mid-tier properties. Fifth night free
+                 benefit for elite members on award bookings.
+Peak pricing: Hilton requires more points than Marriott or Hyatt for
+              comparable luxury properties.
+NYC example: Hilton Midtown ~50,000-70,000 points/night.
+Note: Hilton points are best obtained via Amex transfers (2:1 ratio)
+      making Amex Gold the top card for Hilton redemptions.
+
+WORLD_OF_HYATT:
+Program name: World of Hyatt
+Point value: ~1.5-2.5 cents per point (highest in industry)
+Network size: 1,000+ properties (smaller but high quality)
+Brands: Park Hyatt, Andaz, Grand Hyatt, Hyatt Regency, Hyatt Place,
+        Hyatt House, Alila, Thompson Hotels, Tommie
+Transfer partners: Chase Ultimate Rewards (1:1), Citi ThankYou (1:1),
+                   Chase Freedom Unlimited (1:1)
+Best redemption: Park Hyatt and Andaz properties offer exceptional
+                 value. Category 1-4 properties are sweet spots.
+Peak pricing: Category 1 = 5,000 pts/night. Category 8 = 40,000 pts/night.
+NYC example: Park Hyatt New York ~25,000-35,000 points/night (Category 7).
+Note: Hyatt offers the best cents-per-point value of any hotel program.
+      Chase Sapphire Preferred is the premier card for Hyatt transfers.
+
+IHG_ONE_REWARDS:
+Program name: IHG One Rewards
+Point value: ~0.5-0.7 cents per point
+Network size: 6,000+ properties worldwide
+Brands: InterContinental, Kimpton, Holiday Inn, Holiday Inn Express,
+        Crowne Plaza, Hotel Indigo, voco, Regent
+Transfer partners: Chase Ultimate Rewards (1:1), Capital One Miles (1:1)
+Best redemption: Fourth night free on award bookings (huge value boost).
+                 InterContinental properties offer best luxury value.
+Peak pricing: InterContinental in NYC ~50,000-80,000 points/night.
+NYC example: InterContinental Times Square ~60,000 points/night.
+Note: The fourth night free makes IHG best for 4-night stays.
+      Use Chase or Capital One cards for IHG transfers.
+
+PROGRAM_COMPARISON_TABLE:
+Program         | Value (cpp) | Network | Best Card      | Key Benefit
+Marriott Bonvoy | 0.8         | Largest | Chase Sapphire | Widest choice
+Hilton Honors   | 0.5         | Large   | Amex Gold      | 2:1 from Amex
+World of Hyatt  | 1.5-2.5     | Smaller | Chase Sapphire | Highest value
+IHG One Rewards | 0.5-0.7     | Large   | Chase/Cap One  | 4th night free

@@ -1,0 +1,31 @@
+CARD: Chase Sapphire Preferred
+ISSUER: Chase
+POINTS_CURRENCY: Chase Ultimate Rewards
+VALUATION: 2.0 cents per point
+ANNUAL_FEE: $95
+
+HOTEL_PARTNERS:
+- Marriott Bonvoy | Transfer ratio 1:1 | Minimum 5,000 points
+- World of Hyatt | Transfer ratio 1:1 | Minimum 5,000 points
+- IHG One Rewards | Transfer ratio 1:1 | Minimum 10,000 points
+
+BEST_USE:
+Chase Sapphire Preferred is best used for World of Hyatt transfers.
+Hyatt offers the highest redemption value in the industry, often
+yielding 2.5 to 5 cents per point at premium properties. The 1:1
+transfer ratio means no points are lost in the transfer.
+
+For Marriott Bonvoy, the 1:1 ratio is good but Marriott points are
+generally worth less (0.8 cents each), so you need more hotel points
+to cover a stay. Still a solid option for mid-tier Marriott properties.
+
+IHG One Rewards transfers at 1:1 and IHG frequently runs 4th night
+free promotions, making this card excellent for longer stays at
+Holiday Inn, InterContinental, and Kimpton properties.
+
+AVOID: Do not transfer Chase UR to hotel programs when you have less
+than 5,000 points — you won't meet the minimum transfer threshold.
+
+SWEET_SPOT: Park Hyatt properties. 5,000 Chase UR = 5,000 Hyatt points,
+which can cover a night at a Category 1-2 Hyatt, delivering up to
+5 cents per point in value.
